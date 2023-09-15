@@ -1,0 +1,68 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Inclusive+Sans&family=Inter:wght@600&family=Kanit:wght@300&family=Montserrat:ital,wght@0,100;0,200;1,100;1,200;1,300&family=Open+Sans&family=Oswald&display=swap');
+
+body{
+    background-color: black;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    position: relative;
+
+}
+h1{
+    color: aliceblue;
+    font-size:280%;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Inclusive Sans', sans-serif;
+
+}
+.a{
+    position: absolute;
+    top: 150px;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+.im{
+    position: absolute;
+    top: 250px;
+    /* background-color: red; */
+    width: 550px;
+    height: 40px;
+    border: 1px solid rgba(240, 248, 255, 0.308);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative;
+}
+.c3{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.c2{
+    position: absolute;
+    right: 60px;
+    top: 10px;
+
+}
+.c4{
+    height: 30px;
+    border: none;
+    outline: none;
+    width: 430px;
+    position: absolute;
+    left: 30px;
+    top: 5px;
+    background-color: black;
+    color: aliceblue;
+}
+.c1{
+    position: absolute;
+    left: 5px;
+    top: 10px;
+}

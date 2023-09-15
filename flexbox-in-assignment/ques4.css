@@ -1,0 +1,120 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Inter:wght@600&family=Kanit:wght@300&family=Montserrat:ital,wght@0,100;0,200;1,100;1,200;1,300&family=Open+Sans&family=Oswald&display=swap');
+
+.container{
+    background-color: white;
+    border-bottom: 1px solid gray;
+    height: 50px;
+}
+.im1{
+    width: 50px;
+    height: 50px;
+}
+.el{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: flex-end; */
+    /* align-items: flex-start; */
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    padding-right: 20px;
+    
+}
+.b{
+    /* position: absolute; */
+    /* right: 5px; */
+    text-decoration: none;
+    color: blue;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 4px;
+    margin-right: 40px;
+    background-color: white;
+    border: none;
+}
+.b1{
+    background-color: white;
+    color: blue;
+    border: 1px solid rgba(128, 128, 128, 0.521);
+    height: 23px;
+      padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin-right: 40px;
+    border-radius: 1px;
+    
+}
+.b2{
+    background-color: rgba(0, 60, 255, 0.712);
+    color: white;
+    border-radius: 4px;
+    border: none;
+    height: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.b2:hover{
+    background-color: rgb(42, 6, 247);
+}
+.b1:hover{
+    border-color: blue;
+    background-color:rgb(212, 242, 253);
+}
+.b:hover{
+    background-color: rgb(157, 221, 245);
+}
+.fp{
+    font-size: 40px;
+    line-height: 36px;
+    font-weight: bold;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+ padding-bottom: 1px;
+ margin-bottom: 3px;
+
+}
+.ffp{
+    color: rgba(0, 0, 0, 0.548);
+    margin-bottom: 40px;
+
+}
+.a2{
+    background-color: rgba(0, 60, 255, 0.712);
+    color: white;
+    border-radius: 4px;
+    border: none;
+    height: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 40px;
+
+}
+.a2:hover{
+
+    background-color: rgb(42, 6, 247);
+}
+.maine{
+     display: flex;
+    justify-content: space-evenly;
+    
+}
+.first{
+   position: absolute;
+   top: 250px;
+   left: 50px;
+   margin-right: 100px;
+   padding-right: 100px;
+}
+img[alt="logo"]
+{
+    position: absolute;
+    top: 130px;
+    right: 50px;
+}
+
+
